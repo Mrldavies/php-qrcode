@@ -1,0 +1,10 @@
+{
+    "name": "mrldavies/php-qrcode",
+    "description": "Class to generate a QR code",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mrldavies\\": ""
+        }
+    }
+}
